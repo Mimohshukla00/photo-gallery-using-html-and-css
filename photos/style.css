@@ -64,7 +64,7 @@
   background: linear-gradient(0deg rgba(0, 0, 0, 0.5) rgba(244, 243, 243, 0));
   transition: 0.3s;
 }
-.card:hover figcaption{
-    opacity: 1;
-    transform: scale(1.03);
+.card:hover figcaption {
+  opacity: 1;
+  transform: scale(1.03);
 }
