@@ -1,1 +1,0 @@
-# photo-gallery-using-html-and-css
